@@ -4,33 +4,12 @@
 
 #layout: home
 layout: default
-title: HOME
+#title: HOME
 ---
 
-So, this seems to be an index page.
+# Nyong!
+A small, 1st person, egoistic blog posts.
 
-한글도 되는 듯하다.
-
-Schrödinger 
-
-[Internel links](#very) seems work.
-How about [github][github]?
-
-
-# Very
-and now.
-
-## Second
-
-## and third
-
-
-# In any sense
-It looks ugly, though I like it. What a terrible English.
-
-
-
-
-[github]: https://github.com
-
+# Contents
+[On Linux in general](./linux/)
 
